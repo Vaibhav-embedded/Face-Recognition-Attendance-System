@@ -1,5 +1,5 @@
-#Author Vaibhav C
-Required Libraries
+#Author Vaibhav C <br/>
+Required Libraries <br/>
 Opencv
 dlib
 face recognition
